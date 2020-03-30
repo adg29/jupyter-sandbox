@@ -1,4 +1,4 @@
-name: /Users/alangalan/Code/adg29/conda/env
+name: adg-sandbox
 channels:
   - defaults
 dependencies:
